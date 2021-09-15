@@ -6,6 +6,7 @@
     text-decoration: none;
     list-style-type: none;
     box-sizing: border-box;
+    font-weight: normal;
 }
 
 body {
@@ -37,6 +38,10 @@ body {
     top: 270px;
     color: white;
     text-shadow: #000 1px 0 10px;
+}
+
+.textShadow {
+    text-shadow: #785405 0px 0px 17px;
 }
 
 .section1 .heading h1 {
